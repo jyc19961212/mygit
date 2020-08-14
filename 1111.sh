@@ -7,4 +7,5 @@ echo "`date`该服务的状态为：${sstatus}" >> ./service_log.log
 unset sstatus
 sleep 60
 done
-
+####
+####
